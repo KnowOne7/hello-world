@@ -10,6 +10,10 @@
 	  <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <br>
+   <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
